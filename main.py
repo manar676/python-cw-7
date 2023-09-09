@@ -25,6 +25,7 @@ class person :
           return f"my name is{self.name} and I am {self.age}years old)"
     
 
+
 first_person=person("manar",17)
 print(first_person.name)
 print(first_person.age)
